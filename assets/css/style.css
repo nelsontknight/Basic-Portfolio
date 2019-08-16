@@ -163,3 +163,11 @@ ul.nav {
   li.nav a:hover {
     background-color: #ccc;
   }
+
+  .contact-form input[type=submit] {
+      padding: 10px 30px;
+      background-color: #4aaaa5;
+      color: white;
+      font-size: 12px;
+      cursor: pointer;
+  }
